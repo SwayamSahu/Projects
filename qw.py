@@ -10,8 +10,7 @@ print(x)'''
 x = input("type your birthday in the format DD-MM-YYYY: ")
 
 y = int(x[3:5])-1
-bd_mon = month[y] ;;;;;;;;;;;;;
-
+bd_mon = month[y] ;
 print("You were born in", bd_mon)
 
 
