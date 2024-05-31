@@ -3,7 +3,7 @@
 year = 2000 
 
 # To get year (integer input) from the user
-# year = int(input("Enter a year: "))...........
+# year = int(input("Enter a year: "))
 
 # divided by 100 means century year (ending with 00)
 # century year divided by 400 is leap year
