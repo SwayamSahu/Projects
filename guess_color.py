@@ -1,4 +1,4 @@
-import random
+import random ..........
 colors = ["white","black", "red","green","blue","yellow","purple","grey"]
 
 while True:
