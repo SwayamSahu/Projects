@@ -2,7 +2,7 @@ import random
 colors = ["white","black", "red","green","blue","yellow","purple","grey"]
 
 while True:
-    color = colors[random.randint(0,len(colors)-1)]..............
+    color = colors[random.randint(0,len(colors)-1)]
     guess = input("I'm thinking about a color, can you guess it: ")
 
     while True:
