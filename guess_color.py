@@ -1,5 +1,5 @@
 import random
-colors = ["white","black", "red","green","blue","yellow","purple","grey"]
+colors = ["white","black", "red","green","blue","yellow","purple","grey"]...........
 
 while True:
     color = colors[random.randint(0,len(colors)-1)]
